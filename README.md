@@ -95,9 +95,9 @@ Sorted by current rating in descending order.
 
 For customization, enhancements, or freelance work:
 
-* GitHub: [[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)](https://github.com/Red-Line-Five)
+* GitHub: (https://github.com/Red-Line-Five)
 * Email: charbel.feghaly.rl@gmail.com
-* LinkedIn (optional): [your_linkedin_profile](https://www.linkedin.com/in/charbel-feghaly-916473103/)
+* LinkedIn (optional): (https://www.linkedin.com/in/charbel-feghaly-916473103/)
 
 ---
 
